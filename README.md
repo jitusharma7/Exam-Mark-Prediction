@@ -38,9 +38,7 @@ The prediction of Exam Marks of a student based on student performance will give
 
  
 ## Exploratory_Data_Analysis
-
-     <img src  = "Reading%20distribution.png" width = "350">
-
+<img src="/Reading%20distribution.PNG" width="400">
 
 ## Data_Preprocessing
 
