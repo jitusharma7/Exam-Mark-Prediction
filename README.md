@@ -6,7 +6,6 @@ This project aim is to predict exam score based on student performance.
   * [Problem_Definition](#Problem_Definition)
   * [Dataset_Description](#Dataset_Description)
   * [Exploratory_Data_Analysis](#Exploratory_Data_Analysis)
-  * [Data_Preprocessing](#Data_Preprocessing)
   * [Model_Building](#Model_Building)
   * [Result](#Result)
   * [Business_Recommendation](#Business_Recommendation)
@@ -43,14 +42,14 @@ The prediction of Exam Marks of a student based on student performance will give
 
 
 ## Model_Building
-1. Coorelation HeatMap - reading and writing scores shows high correlation.
-2. Created linear regression Model - 
-
-<img src="/writing%20distribution.PNG" width="400">
 
 ## Result
-* 
-## Business_Recommendation
-*
+*  Reading score, writing score,  group D, high school, some high school, standard are key features to drive student's performance in maths.
+*  Model Acuracy - 70%  - need more feature engineering and apply various algorithm model.
 
+## Business_Recommendation
+* To imporve the score in maths, studnets should focus on reading and writing socre.
+
+## Credit 
+* [dockship](https://https://dockship.io/) - This project has been done on this competitive platform. 
 
