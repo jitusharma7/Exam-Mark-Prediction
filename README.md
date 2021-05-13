@@ -41,12 +41,13 @@ The prediction of Exam Marks of a student based on student performance will give
 <img src="/Reading%20distribution.PNG" width="400">
 <img src="/writing%20distribution.PNG" width="400">
 
-## Data_Preprocessing
-
-
 
 ## Model_Building
-* 
+1. Coorelation HeatMap - reading and writing scores shows high correlation.
+2. Created linear regression Model - 
+
+<img src="/writing%20distribution.PNG" width="400">
+
 ## Result
 * 
 ## Business_Recommendation
