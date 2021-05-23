@@ -1,5 +1,5 @@
 # Exam-Mark-Prediction
-This project aim is to predict exam score based on student performance.
+This project aims to predict exam scores based on student performance.
 
 ## Table of Content
   * [Overview](#Overview)
@@ -12,14 +12,14 @@ This project aim is to predict exam score based on student performance.
   * [Credit](#Credit)
   
 ## Overview
-The prediction of Exam Marks of a student based on student performance will give boost in preparation fot the meritorious student and put more effort , focus  on poor studnet so that can improve their performance in exams.
+The prediction of Exam Marks of a student based on student performance will give a boost in preparation for the meritorious student and put more effort, focus on poor students so that can improve their performance in exams.
 
 
  
  ## Problem_Definition
- Education is one of the most important aspects of human resource development. Poor  performance in exam not only results in the student  having a low self-esteem, but also causes significant stress to the parents.
+ Education is one of the most important aspects of human resource development. Poor performance in exams not only results in the student having low self-esteem but also causes significant stress to the parents.
  
- The proejct is trying to address this problem by indentigy key factors which will affect the performance of the students in exam.
+ The project is trying to address this problem by identifying key factors which will affect the performance of the students in exams.
  
  
  ## Dataset_Description
@@ -45,11 +45,12 @@ The prediction of Exam Marks of a student based on student performance will give
 
 ## Result
 *  Reading score, writing score,  group D, high school, some high school, standard are key features to drive student's performance in maths.
-*  Model Acuracy - 70%  - need more feature engineering and apply various algorithm model.
+*  Model Accuracy - 70%  - need more feature engineering and apply various algorithm models.
 
 ## Business_Recommendation
-* To imporve the score in maths, studnets should focus on reading and writing socre.
+* To improve the score in maths, students should focus on reading and writing score.
 
 ## Credit 
-* [dockship](https://https://dockship.io/) - This project has been done on this competitive platform. 
+* [dockship](https://https://dockship.io/) - This project has been done on this competitive platform.
+
 
